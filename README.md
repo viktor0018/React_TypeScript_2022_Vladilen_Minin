@@ -46,8 +46,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Video 
-https://www.youtube.com/watch?v=OJ16BaPC6VI
 
+React и TypeScript - Быстрый Курс [2022]
 
 [![Watch the video](https://i.ytimg.com/an_webp/OJ16BaPC6VI/mqdefault_6s.webp?du=3000&sqp=CIaNlKUG&rs=AOn4CLAlO9sT2EvKaT7G1ekDftdtqjjSXw)](https://www.youtube.com/watch?v=OJ16BaPC6VI)
 
+https://www.youtube.com/watch?v=OJ16BaPC6VI
