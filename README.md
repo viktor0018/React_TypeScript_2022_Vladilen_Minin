@@ -49,5 +49,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 https://www.youtube.com/watch?v=OJ16BaPC6VI
 
 
-[![Watch the video](https://www.youtube.com/watch?v=OJ16BaPC6VI)
+[![Watch the video](https://i.ytimg.com/an_webp/OJ16BaPC6VI/mqdefault_6s.webp?du=3000&sqp=CIaNlKUG&rs=AOn4CLAlO9sT2EvKaT7G1ekDftdtqjjSXw)](https://www.youtube.com/watch?v=OJ16BaPC6VI)
 
